@@ -6,6 +6,8 @@
 
 .cartao-pokemon .cartao-topo {
     padding: 30px 40px 0;
+    background: url(../imagens/pokebola.png) top center /80% no-repeat; 
+    background-position-y: 16px;
 }
 
 .cartao-pokemon .nome {
@@ -91,4 +93,16 @@
 
 .tipo-dragao {
     background-color: #C29791;
+}
+
+.tipo-normal {
+    background-color: rgb(201, 170, 113);
+}
+
+.tipo-psiquico {
+    background-color: rgb(161, 116, 182);
+}
+
+.tipo-terra {
+    background-color: rgb(245, 144, 107);
 }
