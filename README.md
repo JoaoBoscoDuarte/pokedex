@@ -7,3 +7,7 @@
   
 <p>O projeto está diponivel online: 
 <a href="https://joaoboscoduarte.github.io/pokedex/">Clique aqui para acessar a Pokédex!</a></p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101302935/158510345-85de5954-6389-44ea-9cb1-a5e1b903142b.jpg" width="700px" />
+</div>
